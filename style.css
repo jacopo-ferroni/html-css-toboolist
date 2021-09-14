@@ -46,39 +46,100 @@ header {
 
 .bottom1 {
     background-color: dodgerblue;
+    color: white;
+    padding: 6px ;
     border-radius: 5px;
+    font-size: 12px;
 }
 
 .bottom2 {
-    border: black solid 0.5px;
+    padding: 5px;
+    border: rgb(196, 196, 196) solid 0.5px;
+    color: rgb(196, 196, 196);
     border-radius: 5px;
+    font-size: 12px;
 }
 
 /* second section */
 
 .second-main {
+    margin: auto;
     margin-top: 5px;
     width: 75%;
-    height: 500px;
+    height: 700px;
     background-color: white;
-    margin: auto;
     border-radius: 0px 0px 5px 5px;
     padding: 18px;
     padding-left: 45px;
 }
 
-.Check-box {
+.check-box {
     color: green;
     border: solid 1px green;
     border-radius: 50%;
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 3px;
+}
+
+.delete-box {
+    color: red;
+    border: solid 1px red;
+    border-radius: 50%;
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    vertical-align: middle;
 }
 
 .editional {
-    width: 20px;
+    font-size: 12px;
     background-color: dodgerblue;
     color: white;
+    padding: 5px;
     border-radius: 20px;
 }
+
+.Q1 {
+    font-size: 12px;
+    background-color: rgb(149, 108, 226);
+    color: white;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.recruiting {
+    font-size: 12px;
+    background-color: rgb(60, 131, 87);
+    color: white;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.mobile {
+    font-size: 12px;
+    background-color: rgb(233, 124, 61);
+    color: white;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+div {
+    padding-top: 10px;
+}
+
+.stacco {
+    padding-top: 40px;
+}
+
+.stacco2 {
+    padding-top: 0px;
+}
+
 
 
 

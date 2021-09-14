@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(224, 229, 231);
+}
+
+/* header */
+
+header {
+    background-color: white;
+    height: 70px;
+}
+
+.logo-image {
+    vertical-align: middle;
+    padding: 10px 10px 0px;
+}
+
+.logo-text {
+    font-size: 40px;
+    vertical-align: middle;
+}
+
+
+
+
+

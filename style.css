@@ -64,9 +64,10 @@ header {
 
 .second-main {
     margin: auto;
+    margin-bottom: 10px;
     margin-top: 5px;
     width: 75%;
-    height: 700px;
+    height: 630px;
     background-color: white;
     border-radius: 0px 0px 5px 5px;
     padding: 18px;
@@ -123,6 +124,22 @@ header {
 .mobile {
     font-size: 12px;
     background-color: rgb(233, 124, 61);
+    color: white;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.web {
+    font-size: 12px;
+    background-color: rgb(224, 93, 207);
+    color: white;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.sales {
+    font-size: 12px;
+    background-color: rgb(128, 228, 82);
     color: white;
     padding: 5px;
     border-radius: 20px;
